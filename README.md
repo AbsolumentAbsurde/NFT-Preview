@@ -1,6 +1,6 @@
 Réponse à l'exercice du site: FrontEndMentor => https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U
 
-Lien vers une preview: 
+Lien vers ma réponse: https://nft-preview-na6lh9taj-ch4tans-projects.vercel.app/ 
 
 /* ================================ */
 
